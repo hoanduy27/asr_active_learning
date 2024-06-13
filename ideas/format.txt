@@ -1,0 +1,12 @@
+format train (wav.csv)
+    utt_id text rel_path spkid [start_s end_s] 
+speaker metadata (speaker.csv)
+    spkid name gender age region
+    - name: is OPTIONAL, [EMPTY]
+    - gender: f, m 
+    - age: kid, adult, elder
+    - region: north, mid, south
+utterance metadata (utt.csv)
+    utt_id condition device
+    - condition: clean, normal, noisy
+    - device: micro, maika

@@ -1,0 +1,2 @@
+utterance_id,text,path,speaker_id,hypothesis,CER,WER
+VIVOSDEV01_R002,TIẾNG CỌC CẠCH KHỰNG LẠI CỦA NHỮNG KHỚP SẮT,waves/VIVOSDEV01/VIVOSDEV01_R002.wav,VIVOSDEV01,TUYỂN CỘC CẬT KHẨN LẠI CỐ NHỮNG GÓC SẮC,39.53,77.78
